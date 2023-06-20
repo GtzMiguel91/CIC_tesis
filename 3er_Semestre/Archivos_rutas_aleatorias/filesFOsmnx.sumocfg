@@ -1,0 +1,16 @@
+<configuration>
+
+    <input>
+        <net-file value="osm.net.xml"/>
+        <route-files value="testing3.rou.xml"/>
+    </input>
+
+
+    <time>
+        <begin value="0"/>
+        <end value="5000"/>
+    </time>
+
+
+</configuration>
+
