@@ -1,0 +1,19 @@
+<configuration>
+
+    <input>
+        <net-file value="testGustavo.net.xml"/>
+        <route-files value="testGustavo.rou.xml"/>
+    </input>
+
+
+    <time>
+        <begin value="0"/>
+        <end value="5000"/>
+    </time>
+
+<output>
+        <ignore-route-errors value="true"/>
+    </output>
+
+</configuration>
+
